@@ -1,5 +1,7 @@
 
-
+Requirements: 
+    sudo apt-get install ripgrep
+    
 Package manager:
     wbthomason/packer.nvim (https://github.com/wbthomason/packer.nvim)
     :PackerSync
